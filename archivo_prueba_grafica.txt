@@ -1,1 +1,2 @@
 Para probar la interfaz grafica
+Segunda prueba para interfaz grafica
